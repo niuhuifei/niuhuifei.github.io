@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolution on niuhuifei&#39;s blog</title>
-    <link>http://en.yife.im/tags/evolution/</link>
+    <link>http://niuhuifei.github.io/tags/evolution/</link>
     <description>Recent content in Evolution on niuhuifei&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>niuhuifei@gmail.com (Yife Liu)</managingEditor>
     <webMaster>niuhuifei@gmail.com (Yife Liu)</webMaster>
     <lastBuildDate>Mon, 26 Sep 2016 11:38:25 +0800</lastBuildDate>
-    <atom:link href="http://en.yife.im/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://niuhuifei.github.io/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wlecome to my new site</title>
-      <link>http://en.yife.im/2016/wlecome-to-my-new-site/</link>
+      <link>http://niuhuifei.github.io/2016/wlecome-to-my-new-site/</link>
       <pubDate>Mon, 26 Sep 2016 11:38:25 +0800</pubDate>
       <author>niuhuifei@gmail.com (Yife Liu)</author>
-      <guid>http://en.yife.im/2016/wlecome-to-my-new-site/</guid>
+      <guid>http://niuhuifei.github.io/2016/wlecome-to-my-new-site/</guid>
       <description>&lt;p&gt;i will try how to published&lt;/p&gt;
 </description>
     </item>
