@@ -8,8 +8,23 @@
     <language>zh-cn</language>
     <managingEditor>niuhuifei@gmail.com (Yife Liu)</managingEditor>
     <webMaster>niuhuifei@gmail.com (Yife Liu)</webMaster>
-    <lastBuildDate>Mon, 26 Sep 2016 16:53:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2016 17:06:28 +0800</lastBuildDate>
     <atom:link href="https://niuhuifei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Links</title>
+      <link>https://niuhuifei.github.io/links/</link>
+      <pubDate>Mon, 26 Sep 2016 17:06:28 +0800</pubDate>
+      <author>niuhuifei@gmail.com (Yife Liu)</author>
+      <guid>https://niuhuifei.github.io/links/</guid>
+      <description>&lt;p&gt;Useful links for evolutionary genetics and genomic researches:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;some&lt;/li&gt;
+&lt;li&gt;some two&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -49,7 +64,7 @@
     </item>
     
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>https://niuhuifei.github.io/about/</link>
       <pubDate>Mon, 26 Sep 2016 10:29:43 +0800</pubDate>
       <author>niuhuifei@gmail.com (Yife Liu)</author>
