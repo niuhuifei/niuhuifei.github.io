@@ -74,5 +74,30 @@ some things new&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>Search results</title>
+      <link>https://niuhuifei.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>niuhuifei@gmail.com (Yife Liu)</author>
+      <guid>https://niuhuifei.github.io/search/</guid>
+      <description>&lt;script&gt;
+(function() {
+       var cx = &#39;008574538854808371368:vdbkljdpip8&#39;;
+       var gcse = document.createElement(&#39;script&#39;);
+       gcse.type = &#39;text/javascript&#39;;
+       gcse.async = true;
+       gcse.src = (document.location.protocol == &#39;https:&#39; ? &#39;https:&#39; : &#39;http:&#39;) +
+       &#39;//cse.google.com/cse.js?cx=&#39; + cx;
+       var s = document.getElementsByTagName(&#39;script&#39;)[0];
+      s.parentNode.insertBefore(gcse, s);
+})();
+&lt;/script&gt;
+
+A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow &lt;i&gt;Google AJAX Search API&lt;/i&gt; to show your search results.
+
+&lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
