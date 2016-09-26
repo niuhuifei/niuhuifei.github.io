@@ -1,0 +1,279 @@
+.rrssb-buttons.large-format li a, .rrssb-buttons.large-format li a .text {
+  backface-visibility:hidden;
+}
+.rrssb-buttons, .rrssb-buttons li, .rrssb-buttons li a {
+  box-sizing:border-box;
+}
+.clearfix {
+}
+.clearfix::after {
+  clear:both;
+}
+.clearfix::before, .clearfix::after {
+  content:" ";
+  display:table;
+}
+.rrssb-buttons {
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  height:36px;
+  margin:0;
+  padding:0;
+  width:100%;
+}
+.rrssb-buttons li {
+  float:left;
+  height:100%;
+  line-height:13px;
+  list-style:none;
+  margin:0;
+  padding:0 2.5px;
+}
+.rrssb-buttons li.email a {
+  background-color:#444444;
+}
+.rrssb-buttons li.email a:hover {
+  background-color:#222222;
+}
+.rrssb-buttons li.facebook a {
+  background-color:#306199;
+}
+.rrssb-buttons li.facebook a:hover {
+  background-color:#244872;
+}
+.rrssb-buttons li.tumblr a {
+  background-color:#32506D;
+}
+.rrssb-buttons li.tumblr a:hover {
+  background-color:#22364A;
+}
+.rrssb-buttons li.linkedin a {
+  background-color:#007BB6;
+}
+.rrssb-buttons li.linkedin a:hover {
+  background-color:#005983;
+}
+.rrssb-buttons li.twitter a {
+  background-color:#26C4F1;
+}
+.rrssb-buttons li.twitter a:hover {
+  background-color:#0EAAD6;
+}
+.rrssb-buttons li.googleplus a {
+  background-color:#E93F2E;
+}
+.rrssb-buttons li.googleplus a:hover {
+  background-color:#CE2616;
+}
+.rrssb-buttons li.youtube a {
+  background-color:#DF1C31;
+}
+.rrssb-buttons li.youtube a:hover {
+  background-color:#B21627;
+}
+.rrssb-buttons li.reddit a {
+  background-color:#8BBBE3;
+}
+.rrssb-buttons li.reddit a:hover {
+  background-color:#62A3D9;
+}
+.rrssb-buttons li.pinterest a {
+  background-color:#B81621;
+}
+.rrssb-buttons li.pinterest a:hover {
+  background-color:#8A1119;
+}
+.rrssb-buttons li.pocket a {
+  background-color:#ED4054;
+}
+.rrssb-buttons li.pocket a:hover {
+  background-color:#E4162D;
+}
+.rrssb-buttons li.github a {
+  background-color:#444444;
+}
+.rrssb-buttons li.github a:hover {
+  background-color:#2B2B2B;
+}
+.rrssb-buttons li a {
+  -webkit-font-smoothing:antialiased;
+  background-color:#CCCCCC;
+  border-radius:2px;
+  display:block;
+  font-size:11px;
+  font-weight:bold;
+  height:100%;
+  padding:11px 7px 12px 27px;
+  position:relative;
+  text-align:center;
+  text-decoration:none;
+  text-transform:uppercase;
+  transition:background-color 0.2s ease-in-out;
+  width:100%;
+}
+.rrssb-buttons li a .icon {
+  display:block;
+  height:100%;
+  left:10px;
+  padding-top:9px;
+  position:absolute;
+  top:0;
+  width:10%;
+}
+.rrssb-buttons li a .icon svg {
+  height:17px;
+  width:17px;
+}
+.rrssb-buttons li a .icon svg path, .rrssb-buttons li a .icon svg polygon {
+  fill:#FFFFFF;
+}
+.rrssb-buttons li a .text {
+  color:#FFFFFF;
+}
+.rrssb-buttons li a:active {
+  box-shadow:rgba(22, 0, 0, 0.247059) 1px 3px 15px 0 inset;
+}
+.rrssb-buttons li.small a {
+  padding:0;
+}
+.rrssb-buttons li.small a .icon {
+  height:100%;
+  left:auto;
+  margin:0 auto;
+  overflow:hidden;
+  position:relative;
+  top:auto;
+  width:100%;
+}
+.rrssb-buttons li.small a .text {
+  visibility:hidden;
+}
+.rrssb-buttons.large-format {
+  height:auto;
+}
+.rrssb-buttons.large-format li {
+  height:auto;
+}
+.rrssb-buttons.large-format li a {
+  border-radius:0.2em;
+  font-size:1vw;
+  line-height:1vw;
+  padding:7% 0 7% 12%;
+}
+.rrssb-buttons.large-format li a .icon {
+  left:7%;
+  padding-top:0;
+  width:12%;
+}
+.rrssb-buttons.large-format li a .icon svg {
+  height:100%;
+  width:100%;
+}
+.rrssb-buttons.large-format li a .text {
+  font-size:1vw;
+}
+.rrssb-buttons.large-format li a:hover {
+  border-radius:0.2em;
+  font-size:1vw;
+  padding:7% 0 7% 12%;
+}
+.rrssb-buttons.small-format {
+  padding-top:5px;
+}
+.rrssb-buttons.small-format li {
+  height:80%;
+  padding:0 1.5px;
+}
+.rrssb-buttons.small-format li a .icon {
+  height:100%;
+  padding-top:0;
+}
+.rrssb-buttons.small-format li a .icon svg {
+  height:48%;
+  position:relative;
+  top:6px;
+  width:80%;
+}
+.rrssb-buttons.tiny-format {
+  height:22px;
+  position:relative;
+}
+.rrssb-buttons.tiny-format li {
+  padding-right:7px;
+}
+.rrssb-buttons.tiny-format li a {
+  background-color:transparent;
+  padding:0;
+}
+.rrssb-buttons.tiny-format li a .icon svg {
+  height:70%;
+  width:100%;
+}
+.rrssb-buttons.tiny-format li a:hover, .rrssb-buttons.tiny-format li a:active {
+  background-color:transparent;
+}
+.rrssb-buttons.tiny-format li.email a .icon svg path, .rrssb-buttons.tiny-format li.email a .icon svg polygon {
+  fill:#0A88FF;
+}
+.rrssb-buttons.tiny-format li.email a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.email a .icon:hover .icon svg polygon {
+  fill:#0054A3;
+}
+.rrssb-buttons.tiny-format li.facebook a .icon svg path, .rrssb-buttons.tiny-format li.facebook a .icon svg polygon {
+  fill:#306199;
+}
+.rrssb-buttons.tiny-format li.facebook a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.facebook a .icon:hover .icon svg polygon {
+  fill:#18304B;
+}
+.rrssb-buttons.tiny-format li.tumblr a .icon svg path, .rrssb-buttons.tiny-format li.tumblr a .icon svg polygon {
+  fill:#32506D;
+}
+.rrssb-buttons.tiny-format li.tumblr a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.tumblr a .icon:hover .icon svg polygon {
+  fill:#121D27;
+}
+.rrssb-buttons.tiny-format li.linkedin a .icon svg path, .rrssb-buttons.tiny-format li.linkedin a .icon svg polygon {
+  fill:#007BB6;
+}
+.rrssb-buttons.tiny-format li.linkedin a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.linkedin a .icon:hover .icon svg polygon {
+  fill:#003650;
+}
+.rrssb-buttons.tiny-format li.twitter a .icon svg path, .rrssb-buttons.tiny-format li.twitter a .icon svg polygon {
+  fill:#26C4F1;
+}
+.rrssb-buttons.tiny-format li.twitter a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.twitter a .icon:hover .icon svg polygon {
+  fill:#0B84A6;
+}
+.rrssb-buttons.tiny-format li.googleplus a .icon svg path, .rrssb-buttons.tiny-format li.googleplus a .icon svg polygon {
+  fill:#E93F2E;
+}
+.rrssb-buttons.tiny-format li.googleplus a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.googleplus a .icon:hover .icon svg polygon {
+  fill:#A01E11;
+}
+.rrssb-buttons.tiny-format li.youtube a .icon svg path, .rrssb-buttons.tiny-format li.youtube a .icon svg polygon {
+  fill:#DF1C31;
+}
+.rrssb-buttons.tiny-format li.youtube a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.youtube a .icon:hover .icon svg polygon {
+  fill:#84111D;
+}
+.rrssb-buttons.tiny-format li.reddit a .icon svg path, .rrssb-buttons.tiny-format li.reddit a .icon svg polygon {
+  fill:#8BBBE3;
+}
+.rrssb-buttons.tiny-format li.reddit a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.reddit a .icon:hover .icon svg polygon {
+  fill:#398BCF;
+}
+.rrssb-buttons.tiny-format li.pinterest a .icon svg path, .rrssb-buttons.tiny-format li.pinterest a .icon svg polygon {
+  fill:#B81621;
+}
+.rrssb-buttons.tiny-format li.pinterest a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.pinterest a .icon:hover .icon svg polygon {
+  fill:#5D0B11;
+}
+.rrssb-buttons.tiny-format li.pocket a .icon svg path, .rrssb-buttons.tiny-format li.pocket a .icon svg polygon {
+  fill:#ED4054;
+}
+.rrssb-buttons.tiny-format li.pocket a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.pocket a .icon:hover .icon svg polygon {
+  fill:#B61124;
+}
+.rrssb-buttons.tiny-format li.github a .icon svg path, .rrssb-buttons.tiny-format li.github a .icon svg polygon {
+  fill:#444444;
+}
+.rrssb-buttons.tiny-format li.github a .icon:hover .icon svg path, .rrssb-buttons.tiny-format li.github a .icon:hover .icon svg polygon {
+  fill:#111111;
+}
