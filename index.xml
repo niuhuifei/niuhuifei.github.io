@@ -8,8 +8,20 @@
     <language>zh-cn</language>
     <managingEditor>niuhuifei@gmail.com (Yife Liu)</managingEditor>
     <webMaster>niuhuifei@gmail.com (Yife Liu)</webMaster>
-    <lastBuildDate>Mon, 26 Sep 2016 11:38:25 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2016 16:53:46 +0800</lastBuildDate>
     <atom:link href="https://niuhuifei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>publication</title>
+      <link>https://niuhuifei.github.io/publication/</link>
+      <pubDate>Mon, 26 Sep 2016 16:53:46 +0800</pubDate>
+      <author>niuhuifei@gmail.com (Yife Liu)</author>
+      <guid>https://niuhuifei.github.io/publication/</guid>
+      <description>&lt;p&gt;this is all my publications this year&lt;/p&gt;
+
+&lt;p&gt;how to&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Wlecome to my new site</title>
