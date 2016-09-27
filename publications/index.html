@@ -113,14 +113,20 @@ header
 #TableOfContents ul
 {
     list-style: none;
-    margin-left: 0;
+    margin: 0;
+    line-height: 0.4em;
 }
 
 #TableOfContents ul li
 {
-    font-size: 1.5em;
     display: inline;
     margin-right: 0.5em;
+    line-height: 0.4em;
+}
+
+#TableOfContents ul li ul li ul li
+{
+    font-size: 1.5em;
 }
 
 footer
@@ -713,9 +719,15 @@ footer a:hover
     <div id="toc" class="well col-md-4 col-sm-6">
         <nav id="TableOfContents">
 <ul>
+<li>
+<ul>
+<li>
+<ul>
 <li><a href="#2008">2008</a></li>
 <li><a href="#2007">2007</a></li>
 <li><a href="#2006">2006</a></li>
+</ul></li>
+</ul></li>
 </ul>
 </nav>
     </div>
@@ -723,20 +735,20 @@ footer a:hover
 
 <p>This list will be updated continuously&hellip;</p>
 
-<h1 id="2008">2008</h1>
+<h3 id="2008">2008</h3>
 
 <ol>
 <li>some</li>
 </ol>
 
-<h1 id="2007">2007</h1>
+<h3 id="2007">2007</h3>
 
 <ol>
 <li>this is a paper</li>
 <li>this is  a papt</li>
 </ol>
 
-<h1 id="2006">2006</h1>
+<h3 id="2006">2006</h3>
 
 <ol>
 <li>this is</li>
