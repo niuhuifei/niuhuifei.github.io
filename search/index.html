@@ -110,6 +110,19 @@ header
 	width: 100%;
 }
 
+#TableOfContents ul
+{
+    list-style: none;
+    margin-left: 0;
+}
+
+#TableOfContents ul li
+{
+    font-size: 1.5em;
+    display: inline;
+    margin-right: 0.5em;
+}
+
 footer
 {
 	padding: 1em 0 2.5em;
@@ -566,7 +579,7 @@ footer a:hover
 		padding: 2em 2em 1em;
 		width: auto;
 	}
-
+    
 	footer
 	{
 		padding: 0 2.5em 2em;
@@ -697,6 +710,9 @@ footer a:hover
 
 <article class="page">
     <h1 class="post-title">Search results</h1>
+    <div id="toc" class="well col-md-4 col-sm-6">
+        
+    </div>
     <script>
 (function() {
        var cx = '008574538854808371368:vdbkljdpip8';

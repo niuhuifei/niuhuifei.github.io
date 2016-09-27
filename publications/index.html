@@ -40,8 +40,8 @@
                     "\"@type\": \"Person\",\n\"name\": \"Yifei Liu\",\n\"birthDate\": \"\",\n\"email\": \"liuyife@gmail.com\",\n\"nationality\": \"\",\n\"gender\": \"\",\n\"givenName\": \"\",\n\"familyName\": \"\",\n\"url\": \"http://liu.yife.im/\",\n\"sameAs\":\n\t[\n\t\t\"https://github.com/niuhuifei\"\n\t]\n"
                 },
                 "datePublished": "2016-09-26",
-                "description": "this is all my publications this year how to",
-                "wordCount":  9 ,
+                "description": "This list will be updated continuously\x26hellip; 2008 some 2007 this is a paper this is a papt 2006 this is this is",
+                "wordCount":  22 ,
                 "articleSection": "page",
                 "timeRequired": "0:1:0",
                 "url": "http:\/\/liu.yife.im\/publications\/"
@@ -108,6 +108,19 @@ header
 {
 	display: block;
 	width: 100%;
+}
+
+#TableOfContents ul
+{
+    list-style: none;
+    margin-left: 0;
+}
+
+#TableOfContents ul li
+{
+    font-size: 1.5em;
+    display: inline;
+    margin-right: 0.5em;
 }
 
 footer
@@ -566,7 +579,7 @@ footer a:hover
 		padding: 2em 2em 1em;
 		width: auto;
 	}
-
+    
 	footer
 	{
 		padding: 0 2.5em 2em;
@@ -697,9 +710,39 @@ footer a:hover
 
 <article class="page">
     <h1 class="post-title">Publications</h1>
-    <p>this is all my publications this year</p>
+    <div id="toc" class="well col-md-4 col-sm-6">
+        <nav id="TableOfContents">
+<ul>
+<li><a href="#2008">2008</a></li>
+<li><a href="#2007">2007</a></li>
+<li><a href="#2006">2006</a></li>
+</ul>
+</nav>
+    </div>
+    
 
-<p>how to</p>
+<p>This list will be updated continuously&hellip;</p>
+
+<h1 id="2008">2008</h1>
+
+<ol>
+<li>some</li>
+</ol>
+
+<h1 id="2007">2007</h1>
+
+<ol>
+<li>this is a paper</li>
+<li>this is  a papt</li>
+</ol>
+
+<h1 id="2006">2006</h1>
+
+<ol>
+<li>this is</li>
+<li>this is</li>
+<li></li>
+</ol>
 
 </article>
 
