@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yife.Liu&#39;s blog</title>
+    <title>Posts on Yife.Liu&#39;s lab</title>
     <link>http://liu.yife.im/post/</link>
-    <description>Recent content in Posts on Yife.Liu&#39;s blog</description>
+    <description>Recent content in Posts on Yife.Liu&#39;s lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <managingEditor>liuyife@gmail.com (Yife Liu)</managingEditor>
-    <webMaster>liuyife@gmail.com (Yife Liu)</webMaster>
+    <managingEditor>liuyife@gmail.com (Yifei Liu)</managingEditor>
+    <webMaster>liuyife@gmail.com (Yifei Liu)</webMaster>
     <lastBuildDate>Mon, 26 Sep 2016 11:38:25 +0800</lastBuildDate>
     <atom:link href="http://liu.yife.im/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Wlecome to my new site</title>
       <link>http://liu.yife.im/2016/wlecome-to-my-new-site/</link>
       <pubDate>Mon, 26 Sep 2016 11:38:25 +0800</pubDate>
-      <author>liuyife@gmail.com (Yife Liu)</author>
+      <author>liuyife@gmail.com (Yifei Liu)</author>
       <guid>http://liu.yife.im/2016/wlecome-to-my-new-site/</guid>
       <description>&lt;p&gt;Hello, this is my new site mainly write in English on researches I am working on.&lt;/p&gt;
 </description>
