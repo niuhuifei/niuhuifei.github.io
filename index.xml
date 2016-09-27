@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yife.Liu&#39;s blog</title>
-    <link>https://liu.yife.im/</link>
+    <link>http://liu.yife.im/</link>
     <description>Recent content on Yife.Liu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>liuyife@gmail.com (Yife Liu)</managingEditor>
     <webMaster>liuyife@gmail.com (Yife Liu)</webMaster>
     <lastBuildDate>Mon, 26 Sep 2016 17:06:28 +0800</lastBuildDate>
-    <atom:link href="https://liu.yife.im/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://liu.yife.im/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Links</title>
-      <link>https://liu.yife.im/links/</link>
+      <link>http://liu.yife.im/links/</link>
       <pubDate>Mon, 26 Sep 2016 17:06:28 +0800</pubDate>
       <author>liuyife@gmail.com (Yife Liu)</author>
-      <guid>https://liu.yife.im/links/</guid>
+      <guid>http://liu.yife.im/links/</guid>
       <description>&lt;p&gt;Useful links for evolutionary genetics and genomic researches:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Publications</title>
-      <link>https://liu.yife.im/publications/</link>
+      <link>http://liu.yife.im/publications/</link>
       <pubDate>Mon, 26 Sep 2016 16:53:46 +0800</pubDate>
       <author>liuyife@gmail.com (Yife Liu)</author>
-      <guid>https://liu.yife.im/publications/</guid>
+      <guid>http://liu.yife.im/publications/</guid>
       <description>&lt;p&gt;this is all my publications this year&lt;/p&gt;
 
 &lt;p&gt;how to&lt;/p&gt;
@@ -40,20 +40,20 @@
     
     <item>
       <title>Wlecome to my new site</title>
-      <link>https://liu.yife.im/2016/wlecome-to-my-new-site/</link>
+      <link>http://liu.yife.im/2016/wlecome-to-my-new-site/</link>
       <pubDate>Mon, 26 Sep 2016 11:38:25 +0800</pubDate>
       <author>liuyife@gmail.com (Yife Liu)</author>
-      <guid>https://liu.yife.im/2016/wlecome-to-my-new-site/</guid>
+      <guid>http://liu.yife.im/2016/wlecome-to-my-new-site/</guid>
       <description>&lt;p&gt;Hello, this is my new site mainly write in English on researches I am working on.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://liu.yife.im/about/</link>
+      <link>http://liu.yife.im/about/</link>
       <pubDate>Mon, 26 Sep 2016 10:29:43 +0800</pubDate>
       <author>liuyife@gmail.com (Yife Liu)</author>
-      <guid>https://liu.yife.im/about/</guid>
+      <guid>http://liu.yife.im/about/</guid>
       <description>&lt;p&gt;this is a about me page
 some things new&lt;/p&gt;
 </description>
@@ -61,10 +61,10 @@ some things new&lt;/p&gt;
     
     <item>
       <title>Search results</title>
-      <link>https://liu.yife.im/search/</link>
+      <link>http://liu.yife.im/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>liuyife@gmail.com (Yife Liu)</author>
-      <guid>https://liu.yife.im/search/</guid>
+      <guid>http://liu.yife.im/search/</guid>
       <description>&lt;script&gt;
 (function() {
        var cx = &#39;008574538854808371368:vdbkljdpip8&#39;;
